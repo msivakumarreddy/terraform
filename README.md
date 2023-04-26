@@ -2,7 +2,7 @@
 
 We need to understand what are the advantages and problems terraform is solving. It is popular infrastructure as a tool (IaC) tool as of now. Advantages of IaC are
 
-**Version Control:** <br />
+* **Version Control:** <br />
     Since it is code, we can maintain in GIT to version control it. We can maintain complete history of development. Collaboration is easy.
  
 **Consistent Infrastructure:** <br />
